@@ -1,6 +1,5 @@
 Happy Happy Happy
 Unhappy Unhappy Unhappy
-<<<<<<< HEAD
 kessy kessy kessy
-=======
->>>>>>> fec369827de4ff1dc24c2c1c69f616aff9b8d1e3
+
+Happy Happy Happy
